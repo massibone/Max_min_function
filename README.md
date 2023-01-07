@@ -1,4 +1,4 @@
-# Max_min_function
+# Max_min_function_sin
 
 I've created a sin function that shows its max in a graph of it of the curve.
 the value 'max is marked.
